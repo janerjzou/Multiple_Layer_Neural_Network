@@ -1,6 +1,7 @@
 # Multiple_Layer_Neural_Network
 
-## This is an assignment for Deep Learning
+## COMP5329 Deep Learning - Assignment 1
+
 
 ### Task Description
 Required to accomplish a multi-class classification task on the provided dataset.
