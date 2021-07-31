@@ -9,7 +9,7 @@ Required to accomplish a multi-class classification task on the provided dataset
 *only use scipy, numpy and pandas*
 
 
-Main modules:
+### Main modules:
 * ReLU activation
 * Weight Decay
 * Momentum in SGD
