@@ -5,7 +5,7 @@ Mar 2021 - Apr 2021
 
 
 ### Task Description
-Required to accomplish a multi-class classification task on the provided dataset. *only use scipy, numpy and pandas*
+Required to accomplish a multi-class classification task on the provided dataset. *Only use scipy, numpy and pandas*
 
 The given datasets have already been split into the training set and test set with 50000 instances and 10000 instances respectively. Each instance consists of 128 numerical attributes. The given labels in the datasets are 0 to 9, ten classes. Each class have 5000 instances for training. 
 
