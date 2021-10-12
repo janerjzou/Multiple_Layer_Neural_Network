@@ -1,6 +1,7 @@
 # Multiple_Layer_Neural_Network
 
 ## COMP5329 Deep Learning - Assignment 1
+Mar 2021 - Apr 2021
 
 
 ### Task Description
